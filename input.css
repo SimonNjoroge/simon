@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Poppins:ital,wght@0,100;0,200;1,100&display=swap');
 *
 {
-   font-family: abel;
+   /* font-family: 'Abel', sans-serif; */
+   font-family: 'Poppins', sans-serif;
    letter-spacing: 1.2px;
    user-select: none;
 }
